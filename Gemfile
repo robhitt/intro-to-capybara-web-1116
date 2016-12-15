@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 ruby '>=2.3.0'
 
-gem 'rack', '1.6.5'
+gem 'rack'
 gem 'sinatra'
 
 gem 'rspec'
